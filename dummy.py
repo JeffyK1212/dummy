@@ -1,4 +1,3 @@
-# This is a program blah blah
-# This prints every even number from 0 to 500
-for i in range(0,500,2):
-    print(i)
+# I changed this via GitHub project
+name = "Emmanuel"
+print(f"My name is {name}")
